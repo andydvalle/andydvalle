@@ -12,6 +12,24 @@ Hi, I'm Andy (he/him) -a software enginner _currently seeking for a new opportun
 
 ---
 
+### Technologies & Tools
+
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=005b4f)
+![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=005b4f)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=005b4f)
+![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=white&color=005b4f)
+![](https://img.shields.io/badge/Rails-informational?style=flat&logo=ruby-on-rails&logoColor=white&color=005b4f)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=005b4f)
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=005b4f)
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=005b4f)
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=005b4f)
+![](https://img.shields.io/badge/Markdown-informational?style=flat&logo=markdown&logoColor=white&color=005b4f)
+![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=white&color=005b4f)
+![](https://img.shields.io/badge/Canva-informational?style=flat&logo=canva&logoColor=white&color=005b4f)
+![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=005b4f)
+
+---
+
 ### Read my latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
