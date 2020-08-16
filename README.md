@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+---
+
 ### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -32,3 +34,9 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/andyofthevalley
 [linkedin]: https://www.linkedin.com/in/andydelvalle/
 [medium]: https://medium.com/@acdelvalle89
+
+---
+
+### My GitHub Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andydvalle&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
