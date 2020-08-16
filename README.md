@@ -1,19 +1,6 @@
-### Hi, I'm Andy 👋
+# Andy del Valle -@andydvalle
 
-<!--
-**andydvalle/andydvalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Andy (he/him) -a software enginner currently seeking for a new opportunity to expand my skills in software engineering and full stack web development. While I'm not at home stuck in quarantine, you'll find me enjoying the nearest park or finding the next good meal. But staying at home isn't bad when you have two kitties and a dog to play with - oh and coding of course 😉
 
 ### Connect with me:
 
@@ -22,13 +9,13 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
-<br />
 
 ---
 
-### Latest Blog posts
+### Read my latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Message in a Bottle](https://medium.com/andy-del-valle-software-engineering-portfolio/message-in-a-bottle-890a7f8757ff?source=rss-c38f99f59e52------2)
 - [Seattle Bike Traffic](https://medium.com/andy-del-valle-software-engineering-portfolio/seattle-bike-traffic-40e5ce7c6934?source=rss-c38f99f59e52------2)
 - [Blogs published elsewhere](https://medium.com/andy-del-valle-software-engineering-portfolio/blogs-published-elsewhere-27845c948b4b?source=rss-c38f99f59e52------2)
@@ -39,9 +26,3 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/andyofthevalley
 [linkedin]: https://www.linkedin.com/in/andydelvalle/
 [medium]: https://medium.com/@acdelvalle89
-
----
-
-### My GitHub Stats
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andydvalle&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
