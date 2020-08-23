@@ -17,9 +17,9 @@ Hi, I'm Andy (he/him) -a software enginner _currently seeking for a new opportun
 I write technical and personal blogs on [Medium](https://medium.com/@acdelvalle89). Read my latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Test-Driven Development (TDD): why every programmer should learn it](https://medium.com/@acdelvalle89/test-driven-development-tdd-why-every-programmer-should-learn-it-9f5e1d7b270?source=rss-c38f99f59e52------2)
 - [Message in a Bottle](https://medium.com/andy-del-valle-software-engineering-portfolio/message-in-a-bottle-890a7f8757ff?source=rss-c38f99f59e52------2)
 - [Seattle Bike Traffic](https://medium.com/andy-del-valle-software-engineering-portfolio/seattle-bike-traffic-40e5ce7c6934?source=rss-c38f99f59e52------2)
-- [Blogs published elsewhere](https://medium.com/andy-del-valle-software-engineering-portfolio/blogs-published-elsewhere-27845c948b4b?source=rss-c38f99f59e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
