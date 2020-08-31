@@ -19,9 +19,9 @@ Hi, I'm Andy (he/him) -a software enginner _currently seeking for a new opportun
 I write technical and personal blogs on [Medium](https://medium.com/@acdelvalle89). Read my latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [A Brief Introduction to Development Tests and the Test Pyramid](https://levelup.gitconnected.com/a-brief-introduction-to-development-tests-and-the-test-pyramid-950939a155fe?source=rss-c38f99f59e52------2)
 - [Test-Driven Development (TDD): why every programmer should learn it](https://levelup.gitconnected.com/test-driven-development-tdd-why-every-programmer-should-learn-it-9f5e1d7b270?source=rss-c38f99f59e52------2)
 - [Hi, I’m Andy](https://medium.com/andy-del-valle-software-engineering-portfolio/hi-im-andy-425b5e6bedfb?source=rss-c38f99f59e52------2)
-- [Understanding Information Flow in React: Data Down, Action Up](https://medium.com/swlh/understanding-information-flow-in-react-data-down-action-up-b6c792a8b010?source=rss-c38f99f59e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
