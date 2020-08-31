@@ -4,9 +4,11 @@ Hi, I'm Andy (he/him) -a software enginner _currently seeking for a new opportun
 
 ### Connect with me:
 
+[<img align="left" alt="andydelvalle.dev | Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  />][portfolio]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -41,6 +43,8 @@ I write technical and personal blogs on [Medium](https://medium.com/@acdelvalle8
 ![](https://img.shields.io/badge/Canva-informational?style=flat&logo=canva&logoColor=white&color=005b4f)
 ![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=005b4f)
 
+[portfolio]: https://andydelvalle.dev/
 [twitter]: https://twitter.com/andyofthevalley
 [linkedin]: https://www.linkedin.com/in/andydelvalle/
 [medium]: https://medium.com/@acdelvalle89
+[gmail]: mailto:andydelvalle89@gmail.com
