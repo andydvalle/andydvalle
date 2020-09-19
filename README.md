@@ -19,9 +19,9 @@ Hi, I'm Andy (he/him) -a software engineer _currently seeking a new opportunity_
 I write technical and personal blogs on [Medium](https://medium.com/@acdelvalle89). Read my latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding JavaScript: Coercion in a Dynamically Typed Language](https://medium.com/@acdelvalle89/understanding-javascript-coercion-in-a-dynamically-typed-language-8807d6331fa2?source=rss-c38f99f59e52------2)
 - [Understanding Javascript: the Hoisting Phenomenon](https://levelup.gitconnected.com/understanding-javascript-the-hoisting-phenomenon-cd8b15f6663b?source=rss-c38f99f59e52------2)
 - [A Brief Introduction to Development Tests and the Test Pyramid](https://levelup.gitconnected.com/a-brief-introduction-to-development-tests-and-the-test-pyramid-950939a155fe?source=rss-c38f99f59e52------2)
-- [Test-Driven Development (TDD): why every programmer should learn it](https://levelup.gitconnected.com/test-driven-development-tdd-why-every-programmer-should-learn-it-9f5e1d7b270?source=rss-c38f99f59e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
