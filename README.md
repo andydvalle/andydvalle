@@ -19,9 +19,9 @@ Hi, I'm Andy (he/him) -a software engineer _currently seeking a new opportunity_
 I write technical and personal blogs on [Medium](https://medium.com/@acdelvalle89). Read my latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript: what is it and how does it relate to JavaScript?](https://levelup.gitconnected.com/typescript-what-is-it-and-how-does-it-relate-to-javascript-8ff2cdd525d6?source=rss-c38f99f59e52------2)
 - [Methods you didn’t know you could use on the console object](https://levelup.gitconnected.com/methods-you-didnt-know-you-could-use-on-the-console-object-ecb6e1f4d941?source=rss-c38f99f59e52------2)
 - [Solving an Algorithm in a Technical Interview: The Problem-Solving Approach](https://medium.com/swlh/solving-an-algorithm-in-a-technical-interview-the-problem-solving-approach-9b71627b03f7?source=rss-c38f99f59e52------2)
-- [Understanding JavaScript: Coercion in a Dynamically Typed Language](https://levelup.gitconnected.com/understanding-javascript-coercion-in-a-dynamically-typed-language-8807d6331fa2?source=rss-c38f99f59e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
