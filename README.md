@@ -1,6 +1,6 @@
 # Andy del Valle -@andydvalle
 
-Hi, I'm Andy (he/him) -a software engineer _currently seeking a new opportunity_ to expand my skills in software engineering and full-stack web development. While I'm not at home stuck in quarantine, you'll find me enjoying the nearest park or finding the next good meal. But staying at home isn't bad when you have two kitties and a dog to play with - oh and coding of course 😉
+Hi, I'm Andy (he/him). While I'm not at home stuck in quarantine, you'll find me enjoying the nearest park or finding the next good meal. But staying at home isn't bad when you have two kitties and a dog to play with - oh and coding of course 😉
 
 ### Connect with me:
 
